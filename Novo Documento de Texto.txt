@@ -1,0 +1,118 @@
+Salve todos os arquivos em uma pasta chamada xpto_Seunome 
+Todas as páginas possuirão os links para 
+	Home => index.html
+	Empresa => empresa.html
+	Produtos => produtos.html	
+	Serviços => servicos.html
+	Newsletter => newsletter.html
+	Trabalhe Conosco => trabalhe_conosco.html
+	Fale Conosco => fale_conosco.html
+
+1)	Crie uma página chamada “index.html”, onde possuírá a seguinte formatação:
+Título (H1): "XPTO2 Informática"
+Um parágrafo escrito "Seja bem vindo".
+
+2)	Crie uma página “empresa.html” onde possuirá a seguinte formatação:
+H1 EMPRESA
+
+Fundada em 16 de setembro de 1997, a XPTO2 informática atua ramo manutenção de computadores, celulares e tablets e venda de suprimentos.
+
+Nossos funcionários estão sempre preparados para atender às suas expectativas. Assim, garantimos conforto, bom atendimento e a satisfação dos nossos clientes.
+
+H1 FILOSOFIA
+
+O primeiro principal lema da empresa é a satisfação dos nossos clientes.
+
+Sua Missão é buscar realizar e investir, em serviços e qualidade de ponta no atendimento e venda de suprimentos.
+
+Estamos na cidade do Rio de Janeiro, mas fazemos entregas em todo o país.
+
+
+
+
+
+
+
+
+3)	Crie a página “produtos.html” onde possuirá a seguinte tabela:
+Alguns de nossos produtos
+Modelo				Preço
+Notebook HP	 		R$ 2.000,00
+Notebook Dell	 		R$ 3.000,00
+Notebook Samsung	R$ 1.500,00 	
+Notebook Apple	 	R$ 4.000,00
+Pendrive Kingston		R$ 200,00	
+Pendrive Sandisk		R$ 100,00 	
+Moto G				R$ 1.000,00		
+Moto X				R$ 2.000,00
+Moto E				R$ 500,00
+Galaxy S9			R$ 2.000,00
+iPhone X				R$ 2.000,00
+
+
+
+4)	Crie a página “servicos.html” onde possuirá a lista a seguir:
+
+	Esses são os serviços que realizamos
+
+	. Manutenção de computadores
+	. Manutenção de notebooks
+	. Manutenção de smartphones
+	. Manutenção de PS4
+	. Manutenção de X-BOX
+	. Manutenção de tablets
+	. Assistência técnica Apple
+	. Assistência técnica Samsung
+	. Assistência técnica Gopro
+
+Disponibilizar em um grid de três serviços por linha
+Colocar uma imagem por serviço
+
+5)	Crie a página “newsletter.html” onde possuirá o seguinte formulário:
+Um parágrafo: Cadastre-se e recebe em primeira mão todas as nossas promoções
+
+Campos:
+	Título => select com os seguintes valores "Sr.", "Sra." e "Srta."
+	Nome 
+	Sobrenome
+	E-mail
+	Data de nascimento
+
+	Um botão submit e um reset para limpar o formulário
+
+	Dois campos por linha
+
+6)	Crie a página “trabalhe_conosco.html” onde possuirá o seguinte formulário:
+Um parágrafo:  Envie o seu currículo
+
+	Campos:
+	Nome:
+	E-mail
+	Data de nascimento
+	currículo = um input file
+
+	Um botão submit e um reset para limpar o formulário
+
+	Dois campos por linha
+
+
+7)	Crie a página “fale_conosco.html” onde possuirá o seguinte formulário:
+	Campos:
+
+	Nome:
+	E-mail:
+	Assunto:
+	Mensagem:
+	
+	Um botão submit e reset para limpar o formulário
+-
+	Um campo por linha
+
+
+Não se esqueça do arquivo css
+
+Atenção TODOS os botões de submit deveram ter a cor "Coral" e o reset cor "Verde"
+
+Todos os títulos deverão estar centralizados e na cor verde com margem superior e inferior de 20px;
+
+Todos os parágrafos deverão ter margem em todos os lados em 10px
